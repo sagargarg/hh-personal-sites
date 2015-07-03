@@ -240,7 +240,7 @@ https://www.facebook.com/groups/hackathonhackers/permalink/845765672145586/
 - Ryan Lin http://ryanlin.com
 - Ryan Senanayake http://www.RSenApps.com
 - Ryhan Hassan http://ryhan.org
-- Sagar Garg http://sagargarg.github.io/
+- Sagar Garg http://sagargarg.io/
 - Sai Grandhi http://grandhi.me
 - Saleh Hamadeh http://shamadeh.com
 - Saleh Kaddoura http://tekee.herokuapp.com/
